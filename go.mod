@@ -1,4 +1,4 @@
-module github.com/hong/common
+module github.com/hong-l1/common
 
 go 1.23.2
 
