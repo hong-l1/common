@@ -1,4 +1,4 @@
-module rabbitmq
+module github.com/hong/common
 
 go 1.23.2
 
